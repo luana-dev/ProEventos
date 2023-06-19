@@ -54,3 +54,13 @@ C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
