@@ -18,7 +18,7 @@
           <label>Primeiro Nome</label>
           <input type="text" class="form-control"
           formControlName="firstName"
-          [ngClass]="{'is-invalid': f.firstName.errors && f.firstName.touched}" placeholder="Insira o Primeiro nome" />
+          [ngClass]="cssValidator(f.firstName)" placeholder="Insira o Primeiro nome" />
           <div class="invalid-feedback">
             Nome é obrigatório.
           </div>
@@ -27,7 +27,7 @@
           <label>Último nome</label>
           <input type="text" class="form-control"
           formControlName="lastName"
-          [ngClass]="{'is-invalid': f.lastName.errors && f.lastName.touched}"
+          [ngClass]="cssValidator(f.lastName)"
           placeholder="Insira o Último nome" />
           <div *ngIf="f.lastName.errors?.required" class="invalid-feedback">
             Último nome é obrigatório.

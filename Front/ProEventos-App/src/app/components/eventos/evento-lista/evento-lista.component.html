@@ -39,7 +39,7 @@
       </tr>
     </thead>
     <tbody *ngIf="eventos && eventos.length">
-      <tr *ngFor="let evento of eventosFiltrados">
+      <tr *ngFor="let evento of eventosFiltrados" (click)="detalheEvento(evento.id)" style="cursor: pointer;">
         <td class="d-none d-md-table-cell">
           <img [collapse]="!exibirImagem"
           [isAnimated]="true"
@@ -55,7 +55,7 @@
         <td class="d-none d-md-table-cell">{{evento.qtdPessoas}}</td>
         <td class="d-none d-md-table-cell">{{evento.lote[0]?.nome}}</td>
         <td>
-          <button type="button" class="fa-solid fa-trash btn-outline-danger btn-lg" tooltip="Excluir" (click)="openModal(template)"></button>
+          <button type="button" class="fa-solid fa-trash btn-outline-danger btn-lg" tooltip="Excluir" (click)="openModal($event, template, evento.id)"></button>
         </td>
       </tr>
     </tbody>
@@ -71,7 +71,7 @@
 
 <ng-template #template>
   <div class="modal-body text-center">
-    <p>Tem certeza que quer deletar este evento?</p>
+    <p>Tem certeza que quer deletar o evento de código {{this.eventoId}}?</p>
     <button type="button" class="btn btn-default" (click)="confirm()" >Sim</button>
     <button type="button" class="btn btn-primary" (click)="decline()" >Não</button>
   </div>
