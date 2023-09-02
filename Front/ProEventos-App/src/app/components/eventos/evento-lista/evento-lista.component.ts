@@ -89,17 +89,14 @@ export class EventoListaComponent implements OnInit {
         console.log(result);
         if(result.message === 'Deletado'){
           this.toastr.success(`O evento foi deletado com sucesso!`, 'Deletado!');
-          this.spinner.hide();
           this.carregarEventos();
         }
       },
       (error: any) => {
         console.error(error);
         this.toastr.error(`O evento de código ${this.eventoId} não foi deletado!`, "Erro!")
-        this.spinner.hide();
-      },
-      () => this.spinner.hide()
-    );
+      }
+    ).add(() => this.spinner.hide());
   }
 
   decline(): void {

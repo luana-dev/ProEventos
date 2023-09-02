@@ -28,6 +28,7 @@ const routes: Routes = [
     children: [
       { path: 'detalhe/:id', component: EventoDetalheComponent },
       { path: 'detalhe', component: EventoDetalheComponent },
+     // { path: 'detalhe/lote', component: EventoDetalheComponent },
       { path: 'lista', component: EventoListaComponent }
     ]
   },

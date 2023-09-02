@@ -5,7 +5,6 @@ C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
-C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -19,7 +18,6 @@ C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
-C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
@@ -70,3 +68,5 @@ C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
