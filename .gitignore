@@ -528,6 +528,8 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+Resources/
+assets/
 
 # System Files
 .DS_Store
