@@ -25,7 +25,7 @@ export class EventoDetalheComponent implements OnInit {
   estadoSalvar = 'post';
   eventoId : number;
   loteAtual = {id: 0, nome: '', indice: 0};
-  imagemURL = 'assets/upload.png';
+  imagemURL = 'assets/img/upload.png';
   file : File;
 
   get modoEditar(): boolean{
