@@ -70,3 +70,16 @@ C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luana\OneDrive\Documentos\PORT_PROJ\projeto_angular\Back\src\ProEventos.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
