@@ -15,7 +15,7 @@ namespace ProEventos.Application.Contratos
 
         Task<SignInResult> CheckUserPasswordASync(UserUpdateDto userUpdateDto, string password);
 
-        Task<UserDto> CreateAccountASync(UserDto userDto);
+        Task<UserUpdateDto> CreateAccountASync(UserDto userDto);
         
         Task<UserUpdateDto> UpdateAccount(UserUpdateDto userUpdateDto);
     }

@@ -9,7 +9,7 @@
 
   <div class="col-md-6">
 
-    <form class="p-1" [formGroup]="formReg">
+    <form class="p-1" [formGroup]="formReg" (ngSubmit)="register()">
       <div class="pb-2 d-block d-md-none">
         <h3 class="border-bottom">Cadastro de Usuário</h3>
       </div>
@@ -74,13 +74,13 @@
         <div class="form-group col-sm-6">
           <label for="">Confirmar Senha:</label>
           <input class="form-control" type="password"
-          formControlName="confirmPass"
-          [ngClass]="{'is-invalid': f.confirmPass.errors && f.confirmPass.touched}"
+          formControlName="confirmPassword"
+          [ngClass]="{'is-invalid': f.confirmPassword.errors && f.confirmPassword.touched}"
           placeholder="Confirme a Senha" />
-          <div *ngIf="f.confirmPass.errors?.required && f.confirmPass.touched" class="invalid-feedback">
+          <div *ngIf="f.confirmPassword.errors?.required && f.confirmPassword.touched" class="invalid-feedback">
             Confirmar senha é obrigatório.
           </div>
-          <div *ngIf="f.confirmPass.errors?.mustMatch && f.confirmPass.touched" class="invalid-feedback">
+          <div *ngIf="f.confirmPassword.errors?.mustMatch && f.confirmPassword.touched" class="invalid-feedback">
             As senhas devem ser iguais.
           </div>
         </div>
@@ -93,7 +93,7 @@
       </div>
       <div class="form-row">
         <div class="form-group col-12">
-          <button class="btn btn-lg btn-success btn-block px-5">
+          <button [disabled]="!formReg.valid" class="btn btn-lg btn-success btn-block px-5" type="submit">
             Registar
           </button>
         </div>
