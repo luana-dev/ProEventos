@@ -15,6 +15,7 @@ using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using ProEventos.API.Helpers;
 using ProEventos.Application;
 using ProEventos.Application.Contratos;
 using ProEventos.Domain.Identity;
@@ -62,7 +63,12 @@ namespace ProEventos.API
                     });
 
             services.AddDbContext<ProEventosContext>(
-                context => context.UseSqlite(Configuration.GetConnectionString("Default"))
+                
+                    context => {
+                                context.UseSqlite(Configuration.GetConnectionString("Default"));
+                                // Solução tirada do erro descrito no link: https://stackoverflow.com/questions/48202403/instance-of-entity-type-cannot-be-tracked-because-another-instance-with-same-key
+                                context.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
+                               }
             );
             services.AddCors();
             services.AddControllers()
@@ -77,12 +83,18 @@ namespace ProEventos.API
             services.AddScoped<ILotesService, LoteService>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IPalestranteService, PalestranteService>();
+            services.AddScoped<IRedeSocialService, RedeSocialService>();
+
+            services.AddScoped<IUtil, Util>();
 
             services.AddScoped<IGeralPersist, GeralPersist>();
             
             services.AddScoped<IEventosPersist, EventosPersist>();
             services.AddScoped<ILotesPersist, LotesPersist>();
             services.AddScoped<IUserPersist, UserPersist>();
+            services.AddScoped<IPalestrantesPersist, PalestrantesPersist>();
+            services.AddScoped<IRedeSocialPersist, RedeSocialPersist>();
 
             services.AddSwaggerGen(options =>
             {
