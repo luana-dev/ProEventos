@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,7 +85,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -97,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -165,7 +166,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -174,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -223,7 +225,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -232,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -293,7 +296,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -302,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
