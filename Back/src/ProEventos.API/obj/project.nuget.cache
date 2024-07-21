@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2TOTlrFLp4t6Hi/Q9Al7EKPW4HEAmFB+twNLaDcRvVw9GDg380JS1uCvNN2CXU6ptEtd302ZxCUf/2mLEFkZAQ==",
+  "dgSpecHash": "FKZschv2buwjWwfK41iIdrslIhgZIfeIRNSBLNxJHnQI60oi/ER5oT6BHnjbpLVtfsJVehUJdh1IP8lnod38Ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\luana\\OneDrive\\Documentos\\PORT_PROJ\\projeto_angular\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luana\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
