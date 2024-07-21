@@ -1,5 +1,6 @@
 [build]
-  publish = "dist"
+  base = "Front/ProEventos-App"
+  publish = "Front/ProEventos-App/dist"
   command = "npm run build"
 
 [[redirects]]
