@@ -1,4 +1,5 @@
 [build]
+  base = "Front/ProEventos-App"
   publish = "Front/ProEventos-App/dist/ProEventos-App"
   command = "npm run build --prefix Front/ProEventos-App"
 
