@@ -1,7 +1,6 @@
 [build]
-  base = "Front/ProEventos-App"
-  publish = "/opt/build/repo/Front/ProEventos-App/dist/ProEventos-App"
-  command = "npm run build"
+  publish = "Front/ProEventos-App/dist/ProEventos-App"
+  command = "npm run build --prefix Front/ProEventos-App"
 
 [context.production.environment]
   NODE_VERSION = "16.15.0"
