@@ -1,5 +1,5 @@
 [build]
-  base = ""
+  base = "Front/ProEventos-App"
   publish = "dist/ProEventos-App"
   command = "npm run build"
 
