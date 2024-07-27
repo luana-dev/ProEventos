@@ -1,6 +1,6 @@
 [build]
-  base = "Front/ProEventos-App"
-  publish = "Front/ProEventos-App/dist/ProEventos-App"
+  base = ""
+  publish = "dist/ProEventos-App"
   command = "npm run build"
 
 [context.production.environment]
